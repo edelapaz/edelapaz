@@ -44,89 +44,22 @@
 * 😄 Objetivo profesional: trabajar en el extranjero, probablemente en América / Europa con un equipo global para un producto genial.
 
 ---
+<h3 align="left">Conectar conmigo:</h3>
+<p align="left">
+<a href="https://codepen.io/eliazardelapaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eliazardelapaz" height="30" width="40" /></a>
+<a href="https://twitter.com/eliazardelapaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eliazardelapaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edelapaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edelapaz" height="30" width="40" />
+</a><a href="https://stackoverflow.com/users/eliazardelapaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eliazardelapaz" height="30" width="40" /></a>
+<a href="https://fb.com/eliazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eliazard" height="30" width="40" /></a>
+<a href="https://instagram.com/eliazar_delapaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eliazar_delapaz" height="30" width="40" / ></a>
+<a href="https://www.youtube.com/c/ucffymka30w-grtt_aa7dysq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucffymka30w-grtt_aa7dysq" height="30" width="40" /></a>
 
-<p align="center"> 
- <strong>
-Habilidades profesionales
-  </strong>
-</p>
 
-<p align="center">
- <a href="https://joomla.org/" target="_blank" title="Joomla">
-  <img src="https://www.vectorlogo.zone/logos/joomla/joomla-ar21.svg" height="60px" alt="Joomla" style="vertical-align:top; margin:4px;">
- </a>
- 
- <a href="https://wordpress.org/" target="_blank" title="Wordpress">
-  <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" height="60px" alt="Wordpress" style="vertical-align:top; margin:4px;">
- </a>
- 
-  <a href="https://php.net/" target="_blank" title="php">
-  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" height="60px" alt="php" style="vertical-align:top; margin:4px;">
- </a>
- 
- <a href="https://phpmyadmin.net/" target="_blank" title="Phpmyadmin">
-  <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" height="60px" alt="Phpmyadmin" style="vertical-align:top; margin:4px;">
- </a>
- 
+</p><h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a><a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href=" https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href=" https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href=" https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_ blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a></p>
 
- <a href="https://jquery.com/" target="_blank" title="Jquery">
-  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" height="60px" alt="jquery" style="vertical-align:top; margin:4px;">
- </a>
- 
-  <a href="https://www.w3schools.com/html/" target="_blank" title="Html5">
-     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="Html5" style="vertical-align:top; margin:4px;">
- </a>
- 
- 
-  <a href="http://json.com/" target="_blank" title="Json">
-     <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="Json" style="vertical-align:top; margin:4px;">
- </a>
- 
- 
-  <a href="https://dotnet.microsoft.com/" target="_blank" title="microsoft">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
-  </a>
- 
-  <a href="https://www.github.com" target="_blank" title="github">
-    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://www.git.com" target="_blank" title="git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
-  </a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edelapaz&show_icons=true&locale=en&layout=compact" alt="edelapaz" /></p>
 
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edelapaz&show_icons=true&locale=en" alt="edelapaz" /></p>
 
----
-
-<div align="center">
-  <strong>Idiomas y tecnologías</strong>
-</div>
-<br/>
-
-<p align="center"> 
-<img alt="csharp" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img alt="dotnet" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
-<img alt="Angular" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img alt="SQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> 
-</p>
-
----
-<a href="https://github.com/edelapaz">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=edelapaz&show_icons=true&theme=light&line_height=27" alt="edelapaz's github stats"/>
-</a>
-
----
-
-<a href="https://github.com/edelapaz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edelapaz&theme=light&hide_langs_below=1" />
-</a>
-
----
-<p align="left">  
-  <a href="https://github.com/edelapaz"><img width="800" src="https://github-profile-trophy.vercel.app/?username=edelapaz&row=1&column=5">
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edelapaz&" alt="edelapaz" /></p>
