@@ -1,7 +1,6 @@
 ### Hola, 👋 Soy Eliazar De La Paz Núñez
 
 ## Desarrollador Frontend y Programador web.
-
 <p align="center"> 
  <a href="https://twitter.com/eliazardelapaz" alt="Eliazar Twitter">
    <img src="https://img.shields.io/badge/@eliazardelapaz-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
